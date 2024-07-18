@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AnaghaSu
-- 👀 I’m interested in astrophysics, number theory, cryptology, and cyber security. 
+- 👀 I’m interested in astrophysics, number theory, and cryptology.
 - 🌱 I’m currently a physics and math student at UCI. 
 - 💞️ I’m looking to collaborate on projects related to analyzing redshifts of dusty star-forming galaxies (DSFGs) observed by ALMA Radio Telescope in Chile. 
 - 📫 How to reach me: Please feel free to email me at anaghasu21@gmail.com or at aksubbar@uci.edu. 
